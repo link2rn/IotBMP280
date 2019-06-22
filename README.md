@@ -1,7 +1,7 @@
 Temperature and Pressure Sensor on Python with BMP280 Sensor | Azure IoT Hub 
 ===================
 **Library Used:** Adafruit_Python_BME280 *(Currently deprecated but works fine with below configuration.)*  
-**Raspberry PI Version:** Raspberry PI 2 Model B *(Works with other too).*
+**Raspberry PI Version:** Raspberry PI 2 Model B *(Works with other too).*  
 **Operating System:** Raspbian Jessie  
 **Python Version:** Python 3.7.3  
 #
